@@ -1,5 +1,5 @@
 # first_voxel_engine
-This is my first ever voxel engine written for Rust, using wgpu-rs as rendering backend.
+This is my first ever voxel engine written for Rust, using [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) as rendering backend.
 
 I will not accept pull requests as I want people watching my video about creating this (here: )
 
